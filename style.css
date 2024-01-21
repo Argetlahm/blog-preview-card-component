@@ -9,4 +9,14 @@ body {
   background-color: white;
   border-radius: 20px; 
   border: 1px solid hsl(0, 0%, 7%);
+  padding: 20px;
+}
+
+.img-container {
+  width: 100%;
+}
+
+.image-comp {
+  border-radius: 10px;
+  /* clip-path: ; */
 }
