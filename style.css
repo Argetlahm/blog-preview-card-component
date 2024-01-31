@@ -5,11 +5,16 @@ body {
     background-color: hsl(47, 88%, 63%);
 }
 
+.sgs-flex {
+  
+}
+
 .box {
   background-color: white;
   border-radius: 20px; 
   border: 1px solid hsl(0, 0%, 7%);
-  padding: 20px;
+  width: 350px;
+  /* padding: 20px; */
 }
 
 .img-container {
