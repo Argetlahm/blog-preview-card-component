@@ -61,6 +61,11 @@ h1 {
   margin-bottom: -10px;
 }
 
+h1:hover {
+  cursor: pointer;
+  color: hsl(47, 88%, 63%);
+}
+
 .box p {
  line-height: 1.5rem;
  font-weight: 600;
